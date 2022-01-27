@@ -3,5 +3,5 @@
 Shiny dashboard for most frequently used words in an album .
 Can attach various datasets. Ive used the beatles lyrics. 
 
-<img width="900" alt="2022-01-27 (3)" src="https://user-images.githubusercontent.com/66437656/151389126-e879f38b-3df4-430b-af55-17a6b656f792.png">
+<img width="900" alt="2022-01-27 (3)" src="https://user-images.githubusercontent.com/66437656/151389650-6d51f928-1b56-4197-9c43-a355bd18475a.png">
 
